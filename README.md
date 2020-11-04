@@ -24,7 +24,7 @@ Long time tennis player 🎾 and F1 fan 🏎 !
     <td><b>Python</b></td>
   </tr>
   <tr>
-    <td><img style="margin: 10px" src="https://cdn4.iconfinder.com/data/icons/logos-3/504/Swift-2-512.png" alt="Swift" height="50" /></td>
+    <td><img style="margin: 10px" src="https://ocaml.org/img/OCaml_Sticker.svg" alt="Swift" height="50" /></td>
     <td><b>OCAML</b></td>
   </tr>
   <tr>
@@ -52,7 +52,7 @@ Long time tennis player 🎾 and F1 fan 🏎 !
     <td><b>MySQL</b></td>
   </tr>
   <tr>
-    <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></td>
+    <td><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png" alt="MySQL" height="50" /></td>
     <td><b>PHP</b></td>
   </tr>
   </table>
@@ -69,7 +69,7 @@ Long time tennis player 🎾 and F1 fan 🏎 !
       <td><b>Linux</b></td>
     </tr>
     <tr>
-      <td><img style="margin: 10px" src="https://madrau.fr/Github-Icons/ios.png" alt="iOS" height="50" /></td>
+      <td><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/88px-Windows_logo_-_2012.svg.png" alt="iOS" height="50" /></td>
       <td><b>Windows</b></td>
     </tr>
     <tr>
@@ -81,7 +81,7 @@ Long time tennis player 🎾 and F1 fan 🏎 !
       <td><b>Visual Studio Code</b></td>
     </tr>
     <tr>
-      <td><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Finder_Icon_macOS_Big_Sur.png" alt="macOS" height="50" /></td>
+      <td><img style="margin: 10px" src="https://e7.pngegg.com/pngimages/978/350/png-clipart-unity-3d-computer-graphics-video-games-augmented-reality-game-engine-unity-logo-game-angle.png" alt="macOS" height="50" /></td>
       <td><b>Unity</b></td>
     </tr>
   </table>
