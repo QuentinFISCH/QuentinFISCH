@@ -1,18 +1,16 @@
-### Hi there 👋
+## Hi there 👋
 
 My name is Quentin, I am an IT student at EPITA currently working on several projects that you can find below !
 
 Long time tennis player 🎾 and F1 fan 🏎 !
 
-### My Current Projects 👨🏻‍💻
+## My Current Projects 👨🏻‍💻
 
 - 💻 OCR in C
 - 🌐 Web site creation for individual
 - 📚 Self-learning loads of things
 
-### My Skills
-
-## Skills 
+## My Skills 
 <div align="center"> 
 <table><tr><td valign="top" width="50%">
 
