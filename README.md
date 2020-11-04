@@ -12,13 +12,18 @@ Long time tennis player 🎾 and F1 fan 🏎 !
 
 ### My Skills
 
-|                 Languages                |                 Softwares                |
-|     |    Python     |     ICON     |     |     |    Windows    |     ICON     |     |
-|     |       C       |     ICON     |     |     |    Linux      |     ICON     |     |
-|     |      C#       |     ICON     |     |     |    Git        |     ICON     |     | 
-|     |     OCAML     |     ICON     |     |     |    Unity      |     ICON     |     | 
-|     |     HTML      |     ICON     |     |     |    VSCode     |     ICON     |     |
-|     |      CSS      |     ICON     |     |     |    Python     |     ICON     |     | 
+|    Python     |     ICON     |     
+|       C       |     ICON     |
+|      C#       |     ICON     |
+|     OCAML     |     ICON     |
+|     HTML      |     ICON     |
+|      CSS      |     ICON     |
+
+|    Windows    |     ICON     |
+|    Linux      |     ICON     |
+|    Git        |     ICON     |
+|    Unity      |     ICON     |
+|    VSCode     |     ICON     |
 
 <!--
 **QuentinFISCH/QuentinFISCH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
