@@ -1,4 +1,3 @@
-// ## My Skills 
 <!-- <div align="center"> 
 <table><tr><td valign="top" width="50%"> 
 
@@ -153,7 +152,7 @@ Long time tennis player 🎾 and F1 fan 🏎 !
 
 ### Softwares  
 <div align="center">  
-<img style="margin: 20px; padding: 10px;" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" />  
+<img style="margin: 20px; padding: 10px;" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" margin="10px" />  
 <img style="margin: 20px; padding: 10px;" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 20px; padding: 10px;" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 20px; padding: 10px;" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="Latex" height="50" />  
