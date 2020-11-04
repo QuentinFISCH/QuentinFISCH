@@ -69,26 +69,8 @@ Long time tennis player 🎾 and F1 fan 🏎 !
       <td><b>Linux</b></td>
     </tr>
     <tr>
-      <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></td>
-      <td><b>Git</b></td>
-    </tr>
-    <tr>
-      <td><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Xcode_Icon.png" alt="Xcode" height="50" /></td>
-      <td><b>Xcode</b></td>
-    </tr>
-    <tr>
-      <td><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Finder_Icon_macOS_Big_Sur.png" alt="macOS" height="50" /></td>
-      <td><b>macOS</b></td>
-    </tr>
-    <tr>
       <td><img style="margin: 10px" src="https://madrau.fr/Github-Icons/ios.png" alt="iOS" height="50" /></td>
-      <td><b>iOS</b></td>
-    </tr>
-  </table>
-  <table>
-    <tr>
-      <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></td>
-      <td><b>Linux</b></td>
+      <td><b>Windows</b></td>
     </tr>
     <tr>
       <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></td>
@@ -96,20 +78,13 @@ Long time tennis player 🎾 and F1 fan 🏎 !
     </tr>
     <tr>
       <td><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Xcode_Icon.png" alt="Xcode" height="50" /></td>
-      <td><b>Xcode</b></td>
+      <td><b>Visual Studio Code</b></td>
     </tr>
     <tr>
       <td><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Finder_Icon_macOS_Big_Sur.png" alt="macOS" height="50" /></td>
-      <td><b>macOS</b></td>
-    </tr>
-    <tr>
-      <td><img style="margin: 10px" src="https://madrau.fr/Github-Icons/ios.png" alt="iOS" height="50" /></td>
-      <td><b>iOS</b></td>
+      <td><b>Unity</b></td>
     </tr>
   </table>
-</div>
-
-</td></tr></table>  
 </div>
 
 <br/>  
@@ -117,10 +92,10 @@ Long time tennis player 🎾 and F1 fan 🏎 !
 
 ## Contact 
 <div align="center">
-<a href="https://github.com/Drazeee" target="_blank">
+<a href="https://github.com/QuentinFISCH" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/charles-simon-meunier/" target="_blank">
+<a href="https://www.linkedin.com/in/quentin-fisch/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -132,11 +107,11 @@ Long time tennis player 🎾 and F1 fan 🏎 !
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Drazeee&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=QuentinFISCH&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drazeee&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinFISCH&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
