@@ -101,7 +101,8 @@ Here are some ideas to get you started:
 ### <div align="center">My name is Quentin, I am an IT student at EPITA currently working on several projects that you can find below ! </div> 
 
 Long time tennis player 🎾 and F1 fan 🏎 ! 
-  
+
+## My current Projects
 
 - 💻 OCR in C  
   
