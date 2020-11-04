@@ -6,11 +6,9 @@ Long time tennis player 🎾 and F1 fan 🏎 !
 
 ## My Current Projects 👨🏻‍💻
 
-<div align="center">
 - 💻 OCR in C
 - 🌐 Web site creation for individual
 - 📚 Self-learning loads of things
-</div>
 
 ## My Skills 
 <div align="center"> 
