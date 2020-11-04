@@ -102,6 +102,8 @@ Here are some ideas to get you started:
 
 Long time tennis player 🎾 and F1 fan 🏎 ! 
 
+<br/> 
+
 ## My current Projects
 
 - 💻 OCR in C  
