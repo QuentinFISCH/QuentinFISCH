@@ -152,7 +152,7 @@ Long time tennis player 🎾 and F1 fan 🏎 !
 
 ### Softwares  
 <div align="center">  
-<img style="margin: 20px; padding: 10px;" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" margin="10px" />  
+<img style="margin: 20px; padding: 10px;" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" margin="10" />  
 <img style="margin: 20px; padding: 10px;" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 20px; padding: 10px;" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 20px; padding: 10px;" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="Latex" height="50" />  
@@ -186,7 +186,7 @@ Long time tennis player 🎾 and F1 fan 🏎 !
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=QuentinFISCH&&style=flat-square" align="center" />
 </div>  
   
 
