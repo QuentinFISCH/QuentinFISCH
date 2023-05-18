@@ -106,12 +106,9 @@ Long time tennis player 🎾 and F1 fan 🏎 !
 
 ## My current Projects
 
-- 💻 OCR in C  
-  
-
-- 🌐 Web site creation for individual  
-  
-
+- 💬 Diverse NLP tasks such as text translation with Transformers, text classification (RNN, LSTM, GloVe, Fasttext,...)
+- 🔗 Creation of a data pipeline with data lake storage (HDFS), Kafka streams and Scala/Sparl jobs
+- 🐝 Multi-agent system to simulate evolution of bees in several environments (using NetLogo)
 - 📚 Self-learning loads of things  
   
 
